@@ -1,8 +1,8 @@
 # Top Albums list from Last FM (Android | iOS |  Web)
 
-This is a demo project with infinite list of top albums for an artist on Last.fm, ordered by popularity supporting LIGHT & DARK theme.
+This is a demo project with an infinite list of top albums for an artist on Last.fm, ordered by popularity supporting the LIGHT & DARK theme.
 
-Project has been build using clean architecture adhering to the SOLID principles
+Project has been built using clean architecture adhering to the SOLID principles
 
 <img src="https://github.com/Avadhesh-Pandey/last_fm/assets/42084941/33b3abe7-67e7-42ec-8187-41eadd24560e" width="200px">
 
