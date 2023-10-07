@@ -1,6 +1,37 @@
-# last_fm
+# Top Albums list from Last FM
 
-The top albums for an artist on Last.fm, ordered by popularity.
+This is a demo project with infinite list of top albums for an artist on Last.fm, ordered by popularity supporting LIGHT & DARK theme.
+
+Project has been build using clean architecture adhering to the SOLID principles
+
+## Packages
+
+| Purpose          | Package                    |
+|------------------|----------------------------|
+| State management | Bloc                       |
+| HTTP             | dio                        |
+| DI               | Get it                     |
+| Pagination       | infinite_scroll_pagination |
+| Fonts            | google_fonts               |
+| Responsive UI    | Screen Utils               |
+| Test case        | bloc_test,mockito          |
+
+## Screens
+
+- Home
+
+## Project Architecture
+
+The project is built using clean architecture. It has 2 main directories
+
+- core
+    - di
+    - usecases
+
+- features
+    - data
+    - domain
+    - presentation
 
 ## Getting Started
 

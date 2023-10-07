@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:last_fm/core/constants/color_constants.dart';
 import 'package:last_fm/core/di/injection_getit.dart' as di;
 import 'package:last_fm/features/presentation/pages/home/home_main_page.dart';
 import 'package:last_fm/features/presentation/theme/theme.dart';
